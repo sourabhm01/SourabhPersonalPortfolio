@@ -1,4 +1,4 @@
-# SourabshPersonalPortfolio
+# SourabhPersonalPortfolio
 # Personal Portfolio
 
 This is a personal portfolio project, where I have leveraged HTML, CSS, JavaScript to create a professional looking portfolio website. This website will showcase my work, skills, and experience to potential clients or employers.
