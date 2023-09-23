@@ -7,7 +7,7 @@ This is a personal portfolio project, where I have leveraged HTML, CSS, JavaScri
 
 The main file in this project is index.html, which serves as the starting point for the portfolio website. This file contains all the HTML markup for the website, including the heading, navigation links, about me section, contact section, and projects section.
 
-The CSS files are in the "css" folder, where style.css contains all the CSS styling for the website, and normalize.css is a CSS reset library to ensure consistent styling across different browsers.
+The CSS files are in the "css" folder, where styles.css contains all the CSS styling for the website, and normalize.css is a CSS reset library to ensure consistent styling across different browsers.
 
 The JavaScript files are in the "js" folder, where script.js contains all the JavaScript code for the website, including a hamburger menu, form validation, and smooth scrolling on page anchors.
 
